@@ -5,15 +5,15 @@
     "keywords": [
         "RSS"
     ],
-    "homepage": "https://github.com/DIYgod/RSSHub#readme",
+    "homepage": "https://github.com/candy-Tong/RSSHub#readme",
     "bugs": {
-        "url": "https://github.com/DIYgod/RSSHub/issues"
+        "url": "https://github.com/candy-Tong/RSSHub/issues"
     },
     "license": "AGPL-3.0",
     "author": "DIYgod",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/DIYgod/RSSHub.git"
+        "url": "git+https://github.com/candy-Tong/RSSHub.git"
     },
     "files": [
         "dist-lib"

@@ -79,7 +79,7 @@
             shell: /bin/bash
       - name: Clone the repo
         git:
-            repo: https://github.com/DIYgod/RSSHub.git
+            repo: https://github.com/candy-Tong/RSSHub.git
             dest: /home/rsshub/app
             update: yes
       - name: Install repo dependencies
