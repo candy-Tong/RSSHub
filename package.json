@@ -13,7 +13,7 @@
     "author": "DIYgod",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/DIYgod/RSSHub.git"
+        "url": "https://github.com/DIYgod/RSSHub/fork"
     },
     "files": [
         "dist-lib"
